@@ -1,1 +1,1 @@
-"This is a Git repository."
+This is a Git repository.
